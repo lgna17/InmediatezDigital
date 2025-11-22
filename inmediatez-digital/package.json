@@ -1,0 +1,8 @@
+{
+  "name": "inmediatez-digital",
+  "version": "1.0.0",
+  "description": "Sitio web sobre la inmediatez digital y su impacto psicológico",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
